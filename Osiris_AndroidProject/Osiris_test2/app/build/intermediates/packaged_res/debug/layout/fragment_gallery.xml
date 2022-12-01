@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:paddingLeft="12dp"
+    android:paddingRight="12dp"
+    android:paddingTop="12dp"
+    android:paddingBottom="12dp"
+    tools:context=".ui.gallery.GalleryActivity">
+
+    <FrameLayout
+        android:id="@+id/layoutImage"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_100sdp">
+
+
+        <EditText
+            android:id="@+id/inputName"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_marginTop="@dimen/_20sdp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="text"
+            android:paddingStart="@dimen/_16sdp"
+            android:paddingEnd="@dimen/_16sdp"
+            android:textSize="@dimen/_13sdp"
+            android:hint="Название"/>
+
+        <EditText
+            android:id="@+id/inputEmail"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/_40sdp"
+            android:layout_marginTop="@dimen/_70sdp"
+            android:imeOptions="actionNext"
+            android:importantForAutofill="no"
+            android:inputType="textEmailAddress"
+            android:paddingStart="@dimen/_16sdp"
+            android:paddingEnd="@dimen/_16sdp"
+            android:textSize="@dimen/_13sdp"
+            android:hint="Описание"/>
+    </FrameLayout>
+
+
+    <FrameLayout
+        android:id="@+id/layou"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_350sdp"
+        android:layout_marginTop="@dimen/_1sdp"
+        android:layout_below="@+id/layoutImage"
+        android:layout_alignRight="@+id/layoutImage"
+        android:layout_alignEnd="@+id/layoutImage">
+        <ScrollView
+            android:id="@+id/scr"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:id="@+id/linear"
+                android:orientation="vertical"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/layoutImage"
+                android:layout_alignRight="@+id/layoutImage"
+                android:layout_alignEnd="@+id/layoutImage">
+
+            </LinearLayout>
+        </ScrollView>
+    </FrameLayout>
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/_30sdp"
+        android:layout_marginTop="@dimen/_50sdp"
+        android:text="Добавить вопрос"
+        android:textColor="@color/white"
+        android:textSize="@dimen/_13sdp"
+        android:textStyle="bold"
+        app:cornerRadius="@dimen/_8sdp"
+        android:layout_below="@+id/layou"
+        android:layout_alignRight="@+id/layou"
+        android:layout_alignEnd="@+id/layou"/>
+</RelativeLayout>

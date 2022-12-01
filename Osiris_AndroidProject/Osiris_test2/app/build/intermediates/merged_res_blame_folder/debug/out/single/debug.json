@@ -1,0 +1,346 @@
+[
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.osiris_test2.app-merged_res-50:/layout_activity_main.xml.flat",
+        "source": "com.example.osiris_test2.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_ic__send.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\ic__send.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_activity_test_window.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_test_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xhdpi_ic_complited_test.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xhdpi\\ic_complited_test.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_activity_questions.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_questions.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xhdpi_ic_complited_test_round.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xhdpi\\ic_complited_test_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxhdpi_ic_add_round.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xxhdpi\\ic_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_background_test_input.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\background_test_input.xml"
+    },
+    {
+        "merged": "com.example.osiris_test2.app-merged_res-50:/layout_item_container_test.xml.flat",
+        "source": "com.example.osiris_test2.app-main-52:/layout/item_container_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-anydpi-v26_ic_add.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-anydpi-v26\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_activity_create_test.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_create_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_background_input.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\background_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_activity_main3.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_main3.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_item_container_user.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_activity_custom_editquestion_layout.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_custom_editquestion_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_background_creater_tests.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\background_creater_tests.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_background_image.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\background_image.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_bakcground_sent_test.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\bakcground_sent_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-anydpi-v26_ic_complited_test_round.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-anydpi-v26\\ic_complited_test_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_background_content_top.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\background_content_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_content_main2.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\content_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_background_content_bottom.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\background_content_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_background_icon.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\background_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-mdpi_ic_complited_test.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-mdpi\\ic_complited_test.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxxhdpi_ic_complited_test_round.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xxxhdpi\\ic_complited_test_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxxhdpi_ic_add_round.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xxxhdpi\\ic_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_fragment_gallery.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-anydpi-v26_ic_add_round.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-anydpi-v26\\ic_add_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_activity_sing_up.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_sing_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_nav_header_main2.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\nav_header_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-hdpi_ic_add.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-hdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_custom_edittext_layout.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\custom_edittext_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-hdpi_ic_complited_test_round.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-hdpi\\ic_complited_test_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_fragment_slideshow.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable-v24_ic_olgut.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable-v24\\ic_olgut.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_ic_complited_test_foreground.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\drawable\\ic_complited_test_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_ic_complited_test_background.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\drawable\\ic_complited_test_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-anydpi-v26_ic_complited_test.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-anydpi-v26\\ic_complited_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\menu_activity_main2_drawer.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\menu\\activity_main2_drawer.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_ic_add_background.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\ic_add_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxhdpi_ic_complited_test_round.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xxhdpi\\ic_complited_test_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xhdpi_ic_add_round.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xhdpi\\ic_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable-v24_background_test_window.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable-v24\\background_test_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xxxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-mdpi_ic_add_round.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-mdpi\\ic_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_activity_custom_edittext_layout.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_custom_edittext_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-mdpi_ic_add.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-mdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_item_container_test.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\item_container_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxxhdpi_ic_complited_test.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xxxhdpi\\ic_complited_test.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-mdpi_ic_complited_test_round.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-mdpi\\ic_complited_test_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxhdpi_ic_add.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xxhdpi\\ic_add.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_item_conteiner_sent_test.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\item_conteiner_sent_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_app_bar_main2.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\app_bar_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-hdpi_ic_complited_test.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-hdpi\\ic_complited_test.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_custom_uestion_layout.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\custom_uestion_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\layout_activity_sign_in.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\navigation_mobile_navigation.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-hdpi_ic_add_round.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-hdpi\\ic_add_round.png"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\menu_main2.xml.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\menu\\main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-merged_res-50:\\mipmap-xxhdpi_ic_complited_test.png.flat",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-debug-51:\\mipmap-xxhdpi\\ic_complited_test.png"
+    }
+]

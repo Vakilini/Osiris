@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\activity_questions.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_questions.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\activity_test_window.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_test_window.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\activity_sign_in.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_sign_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\activity_custom_edittext_layout.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_custom_edittext_layout.xml"
+    },
+    {
+        "merged": "com.example.osiris_test2.app-mergeDebugResources-49:/layout/item_container_test.xml",
+        "source": "com.example.osiris_test2.app-main-52:/layout/item_container_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\item_container_test.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\item_container_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\custom_edittext_layout.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\custom_edittext_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\fragment_gallery.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\fragment_gallery.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\item_container_user.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\item_container_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\content_main2.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\content_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\activity_create_test.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_create_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\activity_main2.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\nav_header_main2.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\nav_header_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\activity_sing_up.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_sing_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\fragment_slideshow.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\fragment_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\custom_uestion_layout.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\custom_uestion_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\app_bar_main2.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\app_bar_main2.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\item_conteiner_sent_test.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\item_conteiner_sent_test.xml"
+    },
+    {
+        "merged": "com.example.osiris_test2.app-mergeDebugResources-49:/layout/activity_main.xml",
+        "source": "com.example.osiris_test2.app-main-52:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\activity_custom_editquestion_layout.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_custom_editquestion_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-mergeDebugResources-49:\\layout\\activity_main3.xml",
+        "source": "C:\\Users\\vaniv\\.gradle\\daemon\\7.4\\com.example.osiris_test2.app-main-52:\\layout\\activity_main3.xml"
+    }
+]

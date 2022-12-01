@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="@dimen/_8sdp">
+
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/imageStartTest"
+        android:layout_width="59dp"
+        android:layout_height="56dp"
+        android:backgroundTint="@color/primary"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        android:src="@drawable/ic_complited_test_foreground"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:tint="@color/white" />
+
+
+    <View
+        android:id="@+id/viewSupporter"
+        android:layout_width="1dp"
+        android:layout_height="1dp"
+        app:layout_constraintBottom_toBottomOf="@id/imageStartTest"
+        app:layout_constraintStart_toEndOf="@id/imageStartTest"
+        app:layout_constraintTop_toTopOf="@id/imageStartTest"/>
+
+    <TextView
+        android:id="@+id/textNameTest"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_8sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textSize="@dimen/_13sdp"
+        app:layout_constraintBottom_toTopOf="@+id/viewSupporter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/imageStartTest" />
+    <TextView
+        android:id="@+id/textDurationTest"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_8sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textSize="@dimen/_10sdp"
+        app:layout_constraintTop_toBottomOf="@+id/viewSupporter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toEndOf="@id/imageStartTest" />
+
+    <TextView
+        android:id="@+id/textAnswer1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="@dimen/_8sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="В каком году закончилась манга Наруто?"
+        android:textSize="@dimen/_10sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.09"
+        app:layout_constraintStart_toEndOf="@id/imageStartTest"
+        app:layout_constraintTop_toBottomOf="@+id/textDurationTest" />
+
+    <TextView
+        android:id="@+id/textDesriptionQestion1"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_8sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Укажите дату."
+        android:textSize="@dimen/_13sdp"
+        app:layout_constraintBottom_toTopOf="@+id/viewSupporter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.09"
+        app:layout_constraintStart_toEndOf="@id/imageStartTest"
+        app:layout_constraintTop_toBottomOf="@+id/textAnswer1"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <EditText
+        android:id="@+id/editText1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="28dp"
+        app:layout_constraintTop_toBottomOf="@+id/textDesriptionQestion1"
+        tools:layout_editor_absoluteX="10dp" />
+
+    <TextView
+        android:id="@+id/textAnswer2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="@dimen/_8sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Как звали главного героя аниме евангелион?"
+        android:textSize="@dimen/_10sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.09"
+        app:layout_constraintStart_toEndOf="@id/imageStartTest"
+        app:layout_constraintTop_toBottomOf="@+id/editText1" />
+
+    <TextView
+        android:id="@+id/textDesriptionQestion2"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_8sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Только имя."
+        android:textSize="@dimen/_13sdp"
+        app:layout_constraintBottom_toTopOf="@+id/viewSupporter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.09"
+        app:layout_constraintStart_toEndOf="@id/imageStartTest"
+        app:layout_constraintTop_toBottomOf="@+id/textAnswer2"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <EditText
+        android:id="@+id/editText2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="24dp"
+        app:layout_constraintTop_toBottomOf="@+id/textDesriptionQestion2"
+        tools:layout_editor_absoluteX="16dp" />
+
+    <TextView
+        android:id="@+id/textAnswer3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="@dimen/_8sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Когда вышла первая серия Наруто?"
+        android:textSize="@dimen/_10sdp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@id/imageStartTest"
+        app:layout_constraintTop_toBottomOf="@+id/editText2" />
+
+    <TextView
+        android:id="@+id/textDesriptionQestion3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_8sdp"
+        android:layout_marginEnd="@dimen/_8sdp"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:text="Укажите дату."
+        android:textSize="@dimen/_13sdp"
+        app:layout_constraintBottom_toTopOf="@+id/viewSupporter"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toEndOf="@id/imageStartTest"
+        app:layout_constraintTop_toBottomOf="@+id/textAnswer3"
+        app:layout_constraintVertical_bias="0.0" />
+
+    <EditText
+        android:id="@+id/editText3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="24dp"
+        app:layout_constraintTop_toBottomOf="@+id/textDesriptionQestion3"
+        tools:layout_editor_absoluteX="10dp" />
+
+    <FrameLayout
+        android:id="@+id/layoutSend"
+        android:layout_width="@dimen/_40sdp"
+        android:layout_height="@dimen/_40sdp"
+        android:layout_marginEnd="@dimen/_16sdp"
+        android:layout_marginRight="@dimen/_16sdp"
+        android:layout_marginStart="@dimen/_12sdp"
+        android:background="@drawable/background_test_input"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent">
+
+        <androidx.appcompat.widget.AppCompatImageView
+            android:id="@+id/downloadAnswer"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginStart="@dimen/_4sdp"
+            android:layout_marginLeft="@dimen/_4sdp"
+            android:padding="@dimen/_8sdp"
+            android:src="@drawable/ic__send"
+            android:tint="@color/white"/>
+    </FrameLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
